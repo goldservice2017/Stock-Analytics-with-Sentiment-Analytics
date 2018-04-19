@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/nufwsonwufn/strtsmrt/model/model.ckpt"
+all_model_checkpoint_paths: "/home/nufwsonwufn/strtsmrt/model/model.ckpt"
