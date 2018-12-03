@@ -1,4 +1,4 @@
-# strtsmrt
+# stock market price analysis
 
 strtsmrt is a machine learning system that predicts stock prices based on news articles.
 
