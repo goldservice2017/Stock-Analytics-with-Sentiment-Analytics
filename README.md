@@ -1,6 +1,6 @@
 # stock market price analysis
 
-strtsmrt is a machine learning system that predicts stock prices based on news articles.
+stock market price analysis is a machine learning system that predicts stock prices based on news articles.
 
 ##How it works:
 
